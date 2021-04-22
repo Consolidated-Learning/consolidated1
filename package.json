@@ -11,7 +11,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.1"
   },
-  "homepage": "http://yuribenjamin.github.io/my-app",
+  "homepage": "https://consolidated-learning.github.io/consolidated1/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
